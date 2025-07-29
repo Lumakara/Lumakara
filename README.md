@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Fakhul!
 
-<!--
-**Lumakara/Lumakara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 I'm a Frontend Developer who loves building beautiful web interfaces.
 
-Here are some ideas to get you started:
+## 🚀 Skills
+![HTML5](https://img.shields.io/badge/html-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Fakhul's GitHub stats](https://github-readme-stats.vercel.app/api?username=fakhul-dev&show_icons=true&theme=radical)
+
+## 🔥 Streak
+[![GitHub Streak](https://streak-stats.demolab.com/?user=fakhul-dev&theme=tokyonight)](https://git.io/streak-stats)
+
+## 📈 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fakhul-dev&layout=compact&theme=dracula)
+
+## 🧠 Fun Facts
+- 💡 I enjoy solving UI problems
+- 🎨 I love building animated, futuristic interfaces
+- 🚀 Currently learning: Backend (Node.js + MongoDB)
